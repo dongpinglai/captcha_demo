@@ -1,0 +1,7 @@
+{
+    "predict_by_paths": true,
+    "captcha_paths": ["captcha_test_data/3785_2988776d-4f18-42e7-b358-90136f1feea7.png"],
+    "batch_size": 32, 
+    "model_path": "faded_captcha_correct.h5",
+    "predict_data_dir": "captcha_test_data"
+}
